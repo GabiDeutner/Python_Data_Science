@@ -1,0 +1,5 @@
+instalar o jupyter no visual studio
+instalar o python no computador e no visual studio
+instalar o kernel
+Instalar o pandas no visual studio - abrir o terminal do visual studio e digitar o comando abaixo:
+pip install pandas

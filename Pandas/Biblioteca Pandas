@@ -1,0 +1,21 @@
+Para saber mais: biblioteca Pandas
+
+Pandas é uma biblioteca Python de código aberto para análise de dados. 
+Ela fornece ferramentas poderosas e fáceis de usar para manipulação e análise de dados em 
+formatos de tabelas, como CSV, Excel, SQL e muitos outros.
+
+Com Pandas, podemos carregar dados de várias fontes em um objeto chamado DataFrame, que é uma 
+tabela de dados semelhante a uma planilha do Excel. Em seguida, podemos trabalhar com esses dados, 
+realizando operações como filtrar, ordenar, agregar e transformar.
+
+A biblioteca Pandas é amplamente utilizada em aplicações de ciência de dados, aprendizado de 
+máquina, finanças e análise de negócios. Ela é uma ferramenta essencial para profissionais que 
+trabalham com dados, como analistas de dados, cientistas de dados e engenheiros de dados.
+
+Em resumo, a biblioteca Pandas é uma ferramenta de alta capacidade para análise de dados em Python, 
+que permite trabalhar com dados em diferentes formatos e realizar várias operações para manipular, 
+analisar e visualizar os dados de maneira eficiente e produtiva.
+
+Link alura: 
+
+https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar?_gl=1*1q2kn3h*_ga*MTk0MTQ0MDA3Ni4xNzAxMjA4NDU4*_ga_1EPWSW3PCS*MTcwMTIxNTI0NS4yLjEuMTcwMTIxNjE3MS4wLjAuMA..*_fplc*cWZUd1pBeFJyMzVJUkpIRFJwOUtmRTl4cXJjNSUyRmN1QzFkU3dnT2lxaTI2dzRwRnRLRkhUNEFOZlElMkJSJTJGYXpYWFE5ek9qRVhvMkNZRjJhajd1ZUJzdnZGSkVoZ3JRRDNuZkNmbkV3Snc2ZDJncmNqemloQkplYTJjenlSZVlnJTNEJTNE
