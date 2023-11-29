@@ -1,0 +1,17 @@
+>> Dataframe
+
+O DataFrame é uma tabela de dados bidimensional, semelhante a uma planilha do Excel, 
+com colunas rotuladas e linhas numeradas.
+
+Um DataFrame é basicamente uma estrutura de dados bidimensional que pode ser usada para 
+armazenar informações estruturadas em forma de tabela.
+
+
+>> Series
+
+A Series é uma estrutura de dados unidimensional que pode armazenar qualquer tipo de dados, 
+rotulados com índices.
+
+Uma Series é basicamente uma matriz unidimensional rotulada, que pode armazenar qualquer tipo 
+de dados. Cada elemento da Series é rotulado com um índice, que pode ser utilizado para acessar 
+e manipular seus valores.
