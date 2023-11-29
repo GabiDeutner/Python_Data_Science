@@ -1,0 +1,22 @@
+Para saber mais: diferentes formatos de dados
+
+O Pandas fornece diversas funções para importar e exportar dados em diferentes formatos. 
+As principais funções do Pandas para importar dados são as seguintes:
+
+read_csv(): Essa função é usada para ler arquivos CSV (Comma Separated Values), 
+que são arquivos de texto que contêm dados separados por vírgulas. 
+É possível passar diversos parâmetros para personalizar a leitura do csv, como delimitador, 
+cabeçalho, tipo de encoding, entre outros.
+
+read_excel(): Essa função é usada para ler arquivos do Excel (.xls ou .xlsx) e criar um 
+DataFrame a partir dos dados.
+
+read_json(): Essa função é usada para ler arquivos JSON (JavaScript Object Notation), que 
+são arquivos de texto que contêm dados em formato de objeto JavaScript.
+
+read_html(): Essa função é usada para ler tabelas HTML, que são estruturas de dados organizadas 
+em formato de tabela em uma página da web.
+
+read_sql(): Essa função é usada para ler dados de um banco de dados relacional, como o MySQL, 
+PostgreSQL e SQL Server. O Pandas é capaz de importar dados de diferentes formas, permitindo 
+ajustar parâmetros como a consulta, o nome da tabela e o tipo de dados das colunas.
