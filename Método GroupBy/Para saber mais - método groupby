@@ -1,0 +1,23 @@
+Para saber mais: entendendo o groupby
+
+O método groupby do Pandas permite agrupar e resumir dados de um DataFrame, com base em um ou mais critérios. 
+Esses critérios podem ser variáveis numéricas ou categóricas, como colunas ou índices do DataFrame.
+
+A ideia por trás do groupby é dividir os dados em grupos com base nos critérios selecionados e, em seguida, 
+aplicar uma operação a esses grupos. Essa operação pode ser uma função de agregação, como soma, média, 
+contagem, desvio padrão, entre outras, ou mesmo uma operação personalizada definida pela pessoa usuária.
+
+Esse método possui diversos parâmetros, alguns deles são:
+
+by: esse é o parâmetro mais comum e é usado para especificar a coluna ou colunas que queremos agrupar. 
+Como argumento dele, podemos passar o nome de uma coluna ou uma lista de nomes de colunas;
+
+axis: utilizamos esse parâmetro para especificar o eixo ao longo do qual queremos agrupar. O valor padrão 
+dele é 0, o que significa que as linhas serão agrupadas. Se quisermos agrupar as colunas, devemos definir 
+esse parâmetro como 1;
+
+sort: esse parâmetro é um booleano (True ou False) que indica se os grupos devem ser ordenados pelo valor 
+da coluna de agrupamento. O valor padrão é True;
+
+dropna: utilizamos esse parâmetro para controlar se os valores ausentes (NaN) serão excluídos ou não 
+durante o processo de agrupamento. O valor padrão é True.
