@@ -1,0 +1,24 @@
+
+Para saber mais: lidando com dados nulos
+
+Tratar dados nulos em uma base de dados é muito importante porque esses dados faltantes podem interferir 
+diretamente na qualidade das análises e nos resultados obtidos. Quando existem dados nulos em um conjunto de dados, 
+podem ocorrer problemas como viés, redução da acurácia e imprecisão nas informações obtidas.
+
+Além disso, algumas análises e modelos estatísticos não são capazes de lidar com a presença de dados faltantes. 
+Por isso, o tratamento dos dados nulos é fundamental para garantir a confiabilidade e a precisão das análises e 
+decisões tomadas a partir desses dados.
+
+Existem diversas formas de tratar dados nulos com o Pandas. Algumas das principais formas são:
+
+> Remover os dados nulos: É possível remover as linhas ou colunas que possuem valores nulos utilizando o método dropna() . 
+Esse método remove todas as linhas ou colunas que possuem pelo menos um valor nulo.
+
+> Preencher os dados nulos: Utilizando o método fillna(), podemos preencher os valores nulos com um valor específico. 
+Além disso, também é possível utilizar argumentos específicos do método fillna() como o method=”ffill” ou method=”bfill” 
+para preencher os valores nulos com o valor anterior ou posterior, respectivamente.
+
+> Interpolar os dados nulos: É possível utilizar o método interpolate() para preencher os valores nulos com valores interpolados, 
+ou seja, valores calculados a partir dos valores vizinhos.
+
+É importante escolher a melhor forma de tratar os dados nulos de acordo com a situação específica e o objetivo da análise de dados.
