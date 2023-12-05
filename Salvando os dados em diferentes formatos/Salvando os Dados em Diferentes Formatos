@@ -1,0 +1,15 @@
+Salvando em diferentes formatos
+
+O Pandas oferece diversos métodos para salvar arquivos em diferentes formatos. 
+Alguns exemplos são:
+
+to_csv(): salva o DataFrame em um arquivo CSV (Comma-Separated Values);
+
+to_excel(): salva o DataFrame em um arquivo Excel;
+
+to_json(): salva o DataFrame em um arquivo JSON (JavaScript Object Notation).
+
+Esses são apenas alguns exemplos, existem outros métodos disponíveis no Pandas para salvar 
+arquivos em diferentes formatos. Caso queira conhecê-los, acesse a documentação:
+
+https://pandas.pydata.org/docs/user_guide/io.html#io-tools-text-csv-hdf5
